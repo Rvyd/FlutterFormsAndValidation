@@ -1,6 +1,6 @@
-# vize
+# BS438 Uygulama ödevi
 
-A new Flutter project.
+Erciyes Üniversitesi/Mühendislik Fakültesi/ Bilgisayar Mühendisliği/MOBILE APPLICATION DEVELOPMENT/YRD.DOÇ. DR. FEHİM KÖYLÜ
 
 ## Getting Started
 
